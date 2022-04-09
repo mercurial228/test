@@ -1,2 +1,2 @@
 # testf
-![alt text](img.png)
+![alt text](img.jpg)
